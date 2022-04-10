@@ -2,7 +2,7 @@ let testArray = [1,2,3]
 testArray = [1,2]
 testArray = [1,2,3,4]
 
-testArray[2] = 7;
+testArray[2] = 7; // Random Access
 console.log(testArray[0]);
 
 testArray = [1, 2, 3, 4];

@@ -34,5 +34,5 @@ function mergeSort(unsortedArray) {
       .concat(right.slice(rightIndex));
   }
   
-  testArray = [14,1,56,789,5643,67888,33,27,10,35,19,42,44]
+  testArray = [14,33,27,10,35,19,42,44]
   console.log(mergeSort(testArray))

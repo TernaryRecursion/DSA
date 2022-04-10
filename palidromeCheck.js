@@ -18,4 +18,4 @@ function palidromeCheck(text) {
     return false;
   }
   
-  console.log(palidromeCheck("racecAr"));
+  console.log(palidromeCheck("raceCar"));
